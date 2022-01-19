@@ -78,7 +78,7 @@
 	"committees": {
 		"parent": "Conference",
 		"title": "Organizing and Scientific committees",
-		"content": "<p><b>Organizing committee:</b></p><p><ul><li>Catherine Higgitt, Nathan Daly, Ann Stephenson-Wright and Tess Raven: National Gallery</li><li>Miguel Rodrigues, Cerys Jones, Wei Pu and Chao Zhou: University College London</li><li>Pier Luigi Dragotti, Junjie Huang, Su Yan and Maria Villafane: Imperial College London</li><li>Ingrid Daubechies, Barak Sober and Ashley Kwon: Duke University</li></ul></p><p>  </p><p>  </p><p>  </p><p>  </p><p><b>Scientific committee:</b></p><p>More details coming soon</p>",
+		"content": "<p><b>Organizing committee:</b></p><p><ul><li>Catherine Higgitt, Nathan Daly and Ann Stephenson-Wright: National Gallery</li><li>Miguel Rodrigues, Wei Pu and Chao Zhou: University College London</li><li>Pier Luigi Dragotti, Junjie Huang, Su Yan and Maria Villafane: Imperial College London</li><li>Ingrid Daubechies and Ashley Kwon: Duke University</li></ul></p><p>  </p><p>  </p><p>  </p><p>  </p><p><b>Scientific committee:</b></p><p>More details coming soon</p>",
 		"content right": "<img style=\"position:relative;width:100%;\" src=\"graphics/logos.png\"/>"
 	},
 	"hotels and travel": {
