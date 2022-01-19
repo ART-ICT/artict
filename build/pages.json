@@ -70,13 +70,13 @@
 		"content right": ""
 	},
 	"registration": {
-		"parent": "Computational approaches for technical imaging",
+		"parent": "Conference",
 		"title": "Registration",
-		"content": "<p>The registration is free of charge but required to provide access to the workshop location</p><p>More details to follow</p>",
+		"content": "<p>The conference will be free to attend but attendees will be asked to register. Details of how to register will be circulated shortly and posted on the conference website</p>",
 		"content right": ""
 	},
 	"committees": {
-		"parent": "Computational approaches for technical imaging",
+		"parent": "Conference",
 		"title": "Organizing and Scientific committees",
 		"content": "<p><b>Organizing committee:</b></p><p><ul><li>Catherine Higgitt, Nathan Daly, Ann Stephenson-Wright and Tess Raven: National Gallery</li><li>Miguel Rodrigues, Cerys Jones, Wei Pu and Chao Zhou: University College London</li><li>Pier Luigi Dragotti, Junjie Huang, Su Yan and Maria Villafane: Imperial College London</li><li>Ingrid Daubechies, Barak Sober and Ashley Kwon: Duke University</li></ul></p><p>  </p><p>  </p><p>  </p><p>  </p><p><b>Scientific committee:</b></p><p>More details coming soon</p>",
 		"content right": "<img style=\"position:relative;width:100%;\" src=\"graphics/logos.png\"/>"
@@ -88,9 +88,9 @@
 		"content right": ""
 	},
 	"contact": {
-		"parent": "Computational approaches for technical imaging",
-		"title": "Venue and contact information",
-		"content": "<p>For all enquiries, please use the conference email address: <a href=\"mailto:artict@ng-london.org.uk?Subject=Abstract\" target=\"_top\">artict@ng-london.org.uk</a>​​</p><p>The conference will be held in the <a href=\"https://www.nationalgallery.org.uk/visiting/floorplans/sainsbury-wing/sainsbury-wing-theatre/\">Sainsbury Wing Lecture Theatre</a> and <a href=\"https://www.nationalgallery.org.uk/visiting/floorplans/sainsbury-wing/sainsbury-wing-conference-rooms/\">Conference rooms</a> at the <a href=\"https://www.nationalgallery.org.uk/visiting/plan-your-visit/\">National Gallery, London</a></p><p>The National Gallery​</p><p>Trafalgar Square</p><p>London​</p><p>WC2N 5DN​</p>",
+		"parent": "Conference",
+		"title": "Contact information",
+		"content": "<p>For all enquiries, please use the conference email address: <a href=\"mailto:artict@ng-london.org.uk?Subject=Abstract\" target=\"_top\">artict@ng-london.org.uk</a></p>",
 		"content right": ""
 	}
 }
