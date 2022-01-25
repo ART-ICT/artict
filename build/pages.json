@@ -75,7 +75,7 @@
 	"registration": {
 		"parent": "Conference",
 		"title": "Registration",
-		"content": "<p>The conference will be free to attend but attendees will be asked to register in order to be provided with Zoom and Gather links. Details of how to register will be circulated shortly and posted on the conference website</p>",
+		"content": "<p>The conference will be free to attend but attendees are asked to register in order to be provided with Zoom and Gather links. To register please click <a href=\"https://www.eventbrite.co.uk/e/computational-approaches-for-technical-imaging-in-cultural-heritage-registration-255185716347/\">here</a></p>",
 		"content right": ""
 	},
 	"committees": {
@@ -93,7 +93,7 @@
 	"contact": {
 		"parent": "Conference",
 		"title": "Contact information",
-		"content": "<p>For all enquiries, please use the conference email address: <a href=\"mailto:artict@ng-london.org.uk?Subject=Abstract\" target=\"_top\">artict@ng-london.org.uk</a></p>",
+		"content": "<p>For all enquiries, please use the conference email address: <a href=\"mailto:artict@ng-london.org.uk\" target=\"_top\">artict@ng-london.org.uk</a></p>",
 		"content right": ""
 	}
 }
