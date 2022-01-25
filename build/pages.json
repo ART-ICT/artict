@@ -75,7 +75,7 @@
 	"registration": {
 		"parent": "Conference",
 		"title": "Registration",
-		"content": "<p>The conference will be free to attend but attendees are asked to register in order to be provided with Zoom and Gather links. To register please click <a href=\"https://www.eventbrite.co.uk/e/computational-approaches-for-technical-imaging-in-cultural-heritage-registration-255185716347/\">here</a></p>",
+		"content": "<p>The conference is free to attend but attendees are asked to register in order to be provided with Zoom and Gather links. To register please click <a href=\"https://www.eventbrite.co.uk/e/computational-approaches-for-technical-imaging-in-cultural-heritage-registration-255185716347/\">here</a></p>",
 		"content right": ""
 	},
 	"committees": {
