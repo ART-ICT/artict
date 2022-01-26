@@ -75,7 +75,7 @@
 	"registration": {
 		"parent": "Conference",
 		"title": "Registration",
-		"content": "<p>The conference is free to attend but attendees are asked to register in order to be provided with Zoom and Gather links. To register please click <a href=\"https://www.eventbrite.co.uk/e/computational-approaches-for-technical-imaging-in-cultural-heritage-registration-255185716347/\">here</a></p>",
+		"content": "<p>The conference is free to attend but attendees are asked to register in order to be provided with Zoom and Gather links. To register please click <a href=\"https://www.eventbrite.co.uk/x/computational-approaches-for-technical-imaging-in-cultural-heritage-tickets-255461681767/\">here</a></p><p>Please note that if you are attending for multiple days you can 'copy data' from your previous ticket by selecting this option at the top of the 2nd or 3rd ticket section to avoid having to retype all of your data when registering</p>",
 		"content right": ""
 	},
 	"committees": {
