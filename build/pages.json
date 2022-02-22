@@ -69,7 +69,7 @@
 	"programme": {
 		"parent": "Conference",
 		"title": "Programme",
-		"content": "<p>The virtual conference will be held over Zoom, with a series of invited speaker talks and presentations and posters selected based on an open call for papers. It is also hoped to organise a panel discussion on a topic to be announced. Posters will be presented during designated sessions using Gather. The programme will be available on the conference website as soon as it has been finalised</p>",
+		"content": "<p>The virtual conference will be held over Zoom, with a series of invited speaker talks and presentations and posters selected based on an open call for papers. It is also hoped to organise a panel discussion on a topic to be announced. Posters will be presented during designated sessions using Gather. The programme will be available on the conference website as soon as it has been finalised</p><p>  </p><p>  </p><p>  </p><p><b>Confirmed keynote speakers:</b></p><p><ul><li>Jill Dunkerton, senior restorer at the National Gallery, London</li><li>Haida Liang, Professor of Physics and Head of the Imaging & Sensing for Archaeology, Art History & Conservation (ISAAC) Research Centre, Nottingham Trent University</li><li>Marc Walton, Head of Conservation and Research at the M+ Museum, Hong Kong and Adjunct Professor of Materials Science, Northwestern University</li></ul></p>",
 		"content right": ""
 	},
 	"registration": {
