@@ -81,7 +81,7 @@
 	"committees": {
 		"parent": "Conference",
 		"title": "Organizing and Scientific committees",
-		"content": "<p><b>Organizing committee:</b></p><p><ul><li>Catherine Higgitt, Nathan Daly and Ann Stephenson-Wright: National Gallery</li><li>Miguel Rodrigues, Wei Pu and Chao Zhou: University College London</li><li>Pier Luigi Dragotti, Junjie Huang, Su Yan and Maria Villafane: Imperial College London</li><li>Ingrid Daubechies and Ashley Kwon: Duke University</li></ul></p><p>  </p><p>  </p><p>  </p><p>  </p><p><b>Scientific committee:</b></p><p><ul><li>John K. Delaney, National Gallery of Art, Washington, DC</li><li>Koen Janssens, University of Antwerp</li><li>Aggelos K. Katsaggelos, Northwestern University</li><li>Aleksandra Pizurica, University of Ghent</li></ul></p>",
+		"content": "<p><b>Organizing committee:</b></p><p><ul><li>Catherine Higgitt, Nathan Daly and Ann Stephenson-Wright: National Gallery</li><li>Miguel Rodrigues, Wei Pu and Chao Zhou: University College London</li><li>Pier Luigi Dragotti, Junjie Huang, Su Yan and Maria Villafane: Imperial College London</li><li>Ingrid Daubechies and Ashley Kwon: Duke University</li></ul></p><p>  </p><p>  </p><p>  </p><p>  </p><p><b>Scientific committee:</b></p><p><ul><li>John K. Delaney, National Gallery of Art, Washington, DC</li><li>Anya Hurlbert</li><li>Koen Janssens, University of Antwerp</li><li>Aggelos K. Katsaggelos, Northwestern University</li><li>Juan José Murillo Fuentes, University of Seville</li><li>Aleksandra Pizurica, University of Ghent</li></ul></p>",
 		"content right": "<img style=\"position:relative;width:100%;\" src=\"graphics/logos.png\"/>"
 	},
 	"hotels and travel": {
