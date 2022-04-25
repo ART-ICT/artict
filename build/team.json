@@ -12,7 +12,7 @@
 	"checked": "",
 	"link": "https:\/\/www.ee.ucl.ac.uk\/~uceemrd"
 }, {
-	"groups": ["Co-Investigator"],
+	"groups": ["Co-Investigators"],
 	"ptitle": "Pier Luigi Dragotti",
 	"stitle": "Professor of Signal Processing",
 	"comment": "Pier Luigi Dragotti is Professor of Signal Processing in the Electrical and Electronic Engineering Department at Imperial College London and a Fellow of the IEEE. His research interests include sampling theory, wavelet theory and its applications, sparsity-driven signal processing with application in image super-resolution, neuroscience and for art investigation.\u00a0\u00a0",
@@ -20,7 +20,7 @@
 	"checked": "",
 	"link": "http:\/\/www.commsp.ee.ic.ac.uk\/~pld\/"
 }, {
-	"groups": ["Co-Investigator"],
+	"groups": ["Co-Investigators"],
 	"ptitle": "Catherine Higgitt",
 	"stitle": "Principal Scientist at the National Gallery",
 	"comment": "Catherine Higgitt has a PhD in chemistry (University of York) and joined the National Gallery in 1999 as an organic analyst, specialising in the study of paint binding media using a combination of spectroscopic and chromatographic techniques. She is currently a Principal Scientist at the NG, helping extend the range of analytical and imaging approaches available for the study of paintings.",
@@ -28,7 +28,7 @@
 	"checked": "",
 	"link": ""
 }, {
-	"groups": ["Co-Investigator"],
+	"groups": ["Co-Investigators"],
 	"ptitle": "Joseph Padfield",
 	"stitle": "Principal Scientist at the National Gallery",
 	"comment": "Joseph Padfield is a conservation scientist at the National Gallery in London, with a degree in Chemistry from Edinburgh University, an MA in Easel Paintings Conservation from the University of Northumbria and a postgraduate diploma in the conservation of paintings at the Hamilton Kerr Institute. His main research interests include generating/sharing digital images, the semantic web, digital documentation and museum lighting.",
@@ -36,7 +36,7 @@
 	"checked": "",
 	"link": "https://orcid.org/0000-0002-2572-6428"
 }, {
-	"groups": ["Co-Investigator"],
+	"groups": ["Co-Investigators"],
 	"ptitle": "David Peggie",
 	"stitle": "Senior Scientist at the National Gallery",
 	"comment": "David Peggie obtained a Masters degree in Chemistry at The University of Edinburgh (2002) and then a PhD (2006) for research into the identification of dyes on historical textiles (in collaboration with the National Museum of Scotland). He uses a variety of chromatographic and spectroscopic techniques for the characterisation of materials in support of conservation treatments and for the understanding of painting technique and his main research interests include the analysis of natural products (such as oils, varnishes and dyestuffs) and the investigation of their deterioration.",
@@ -44,7 +44,7 @@
 	"checked": "",
 	"link": ""
 }, {
-	"groups": ["Research Partner"],
+	"groups": ["Research Partners"],
 	"ptitle": "Ingrid Daubechies",
 	"stitle": "James B. Duke Distinguished Professor of Mathematics and Electrical and Computer Engineering, Duke University",
 	"comment": "Ingrid Daubechies earned her Ph.D. in theoretical physics from Vrije Universiteit Brussel. In addition to her commitment to educating and mentoring the next generation of mathematicians, Ingrid continues to break ground in mathematics research and expand its impact outside of her discipline focusing on the analysis of signals and inverse problems in a wide range of settings with applications ranging from fMRI and geophysics to paleontology and the study of fine art paintings.",
@@ -52,7 +52,7 @@
 	"checked": "",
 	"link": "https:\/\/math.duke.edu\/people\/ingrid-daubechies"
 }, {
-	"groups": ["Research Partner"],
+	"groups": ["Research Partners"],
 	"ptitle": "Barak Sober",
 	"stitle": "Phillip Griffiths Assistant Research Professor, Mathematics Department and Rhodes Information Initiative, Duke University ",
 	"comment": "Barak received his B.Sc. (2009) in Mathematics and Philosophy, M.Sc (2014), and Ph.D. (2019) in Applied Mathematics all from Tel-Aviv University. His research ranges between analysis of high dimensional data from a geometric and statistical perspective and the application of mathematical and statistical methods in biblical archaeology and art investigation.",
@@ -60,7 +60,7 @@
 	"checked": "",
 	"link": "https:\/\/scholars.duke.edu\/person\/Barak.Sober"
 }, {
-	"groups": ["Postdoctoral Research Fellow"],
+	"groups": ["Postdoctoral Research Fellows"],
 	"ptitle": "Cerys Jones",
 	"stitle": "Postdoctoral Researcher at UCL EE",
 	"comment": "Cerys Jones received her MMath degree in mathematics from Cardiff University in 2015, her MRes degree in science and engineering in art, heritage and archaeology from UCL in 2016, and her PhD in multispectral imaging and image processing at UCL in 2020. Her current research topics include image processing, machine learning and scientific imaging (multispectral, hyperspectral and x-ray fluorescence).",
@@ -68,7 +68,7 @@
 	"checked": "",
 	"link": "https:\/\/www.ucl.ac.uk\/iccs\/cerys-jones"
 }, {
-	"groups": ["Postdoctoral Research Fellow"],
+	"groups": ["Postdoctoral Research Fellows"],
 	"ptitle": "Junjie Huang",
 	"stitle": "Postdoctoral Researcher at ICL EE",
 	"comment": "Junjie Huang is currently a postdoctoral researcher at Communications and Signal Processing Group, Electrical and Electronic Engineering Department, Imperial College London, advised by Professor Pier Luigi Dragotti. He obtained his Ph.D. degree in Imperial College London in 2019. His research interests include signal\/image processing, computer vision and deep learning.",
@@ -76,7 +76,7 @@
 	"checked": "",
 	"link": "http:\/\/www.commsp.ee.ic.ac.uk\/~jhuang\/"
 }, {
-	"groups": ["Postdoctoral Research Fellow"],
+	"groups": ["Postdoctoral Research Fellows"],
 	"ptitle": "Nathan Daly",
 	"stitle": "Postdoctoral Researcher at NG",
 	"comment": "Nathan Daly received a PhD in chemistry from Columbia University and, prior to joining the ARTICT team, was a postgraduate fellow at the Getty Conservation Institute. His research interests are in the use of various noninvasive spectroscopic mapping and imaging techniques in the cultural heritage field, as well as multivariate statistical methods to better interrogate these datasets.",
@@ -84,7 +84,7 @@
 	"checked": "",
 	"link": ""
 }, {
-	"groups": ["Postdoctoral Research Fellow"],
+	"groups": ["Postdoctoral Research Fellows"],
 	"ptitle": "Wei Pu",
 	"stitle": "Postdoctoral Researcher at UCL EE",
 	"comment": "Wei Pu received the B.S. and Ph.D. degrees in electronic engineering from the University of Electronic Science and Technology of China (UESTC) in 2012 and 2018, respectively. From 2017 to 2018, he was a Visiting Student with the Department of Electrical Engineering, Columbia University. He is a recipient of the Newton International Fellowship from the Royal Society, UK. His research interests include synthetic aperture radar, sparse signal processing, deep learning and its application on art investigation problem.",
@@ -92,7 +92,7 @@
 	"checked": "",
 	"link": "https:\/\/www.ee.ucl.ac.uk\/iiml\/members\/pu.html"
 }, {
-	"groups": ["PhD student"],
+	"groups": ["PhD students"],
 	"ptitle": "Chao Zhou",
 	"stitle": "PhD student at UCL EE",
 	"comment": "Chao Zhou received the B.S. degree in communication engineering from the Wuhan University of Technology, Wuhan, China, in 2015, his M.S. degree in communication and information engineering from University of Electronic Science and Technology of China, Chengdu, China. His current research interests include deep learning, image processing, linear inverse problem, hyper-spectral image processing.",
@@ -100,7 +100,7 @@
 	"checked": "",
 	"link": "https:\/\/www.ee.ucl.ac.uk\/iiml\/members\/zhou.html"
 }, {
-	"groups": ["PhD student"],
+	"groups": ["PhD students"],
 	"ptitle": "Maria Villafane",
 	"stitle": "PhD student at ICL EE",
 	"comment": "Maria Villafane is a computational geometry designer working towards a PhD in communications and signal processing, in a project on computer vision for the arts: Multimodal image registration of Old Masters paintings. She has a background in architecture and structural engineering.",
@@ -108,7 +108,7 @@
 	"checked": "",
 	"link": ""
 }, {
-	"groups": ["PhD student"],
+	"groups": ["PhD students"],
 	"ptitle": "Su Yan",
 	"stitle": "PhD student at ICL EE",
 	"comment": "Su Yan received his MSc degree in Communication Engineering with distinction from The University of Manchester and BEng degree in Communication Engineering from Jilin University. His research interests include Finite Rate of Innovation (FRI) sampling theory, inverse problems and MA-XRF spectrum deconvolution. He is currently working on image processing for art investigation.",
@@ -116,17 +116,17 @@
 	"checked": "",
 	"link": ""
 }, {
-	"groups": ["Other team member"],
+	"groups": ["Other team members"],
 	"ptitle": "Hojung \"Ashley\" Kwon",
-	"stitle": "Undergraduate Student - Duke University",
-	"comment": "Hojung \"Ashley\" Kwon is an undergraduate student at Duke University majoring in computer science and art history. Her project in the ARTICT team aims to identify, based on the pigment maps, original and retouched areas in paintings and shed light on its conservation and restoration history.",
+	"stitle": "Duke University",
+	"comment": "Hojung \"Ashley\" Kwon graduated from Duke with a BS degree in Computer Science and an AB degree in Art History in December 2021. Since February this year, she has been working as an intern at the Information Initiative at Duke on building a digital art restoration website under the supervision of Ingrid Daubechies's supervision. She will be joining a PhD program in Computer Science at Brown University in Rhode Island, US in September 2022. Her project in the ARTICT team aimed to identify, based on the pigment maps, original and retouched areas in paintings and shed light on its conservation and restoration history.",
 	"image": "graphics/people/AshleyKwonPhotoBW.jpg",
 	"checked": "",
 	"link": ""
 }, {
-	"groups": ["Undergraduate Student"],
+	"groups": ["Other team members"],
 	"ptitle": "Wallace Peaslee",
-	"stitle": "Undergraduate Student - Duke University",
+	"stitle": "Duke University",
 	"comment": "Wallace Peaslee is an undergraduate majoring in mathematics and computer science at Duke University. Within ARTICT, his focus is on extracting underdrawings, especially by developing methods and automated tools that utilize hyperspectral images.",
 	"image": "graphics/people/WallacePeasleePhotoBW.jpg",
 	"checked": "",
